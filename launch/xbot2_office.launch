@@ -12,7 +12,7 @@
 	</node>
 
 	<!-- ************** amcl ************** -->
-	<include file="$(find xbot2_app)/launch/inculde/xbot2_amcl.launch.xml">
+	<include file="$(find xbot2_app)/launch/include/xbot2_amcl.launch.xml">
 		<arg name="initial_pose_x" value = "-0.636022786456"/>
 		<arg name="initial_pose_y" value = "8.70293702335"/>
 		<arg name="initial_pose_a" value = "-0.100474840346538993"/>
